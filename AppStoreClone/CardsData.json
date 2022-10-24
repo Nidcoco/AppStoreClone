@@ -1,0 +1,308 @@
+{ "data": [
+        {
+            "ID": "1",
+            "viewType": 0,
+            "cardTypeTitle": "编辑最爱",
+            "title": "丢蕾老姆",
+            "describe": "进入《Re：从零开始的异世界生活》",
+            "imageName": "cardImage1",
+            "backgroundType": "light",
+            "contents": [
+                {
+                    "type": "text",
+                    "content": [
+                        {
+                            "text": "雷姆，轻小说《Re：从零开始的异世界生活》及其衍生作品的主要角色，在罗兹沃尔的宅邸中一手担当全部杂务的双胞胎女仆中的妹妹，小时候家人被魔女教所杀，姐姐角被斩断，从而憎恨魔女教，初识昴因其身上有魔女气味不待见昴，之后解开误会被昴拯救，认定昴是她的英雄，一心一意的相信并照顾昴，看似毒舌冷漠，其实内心很坚强，很温柔。\n\n",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                        {
+                            "text": "角色设定\n",
+                            "font": 23,
+                            "color": "LabelColor",
+                            "weight": "Bold",
+                        },
+                        {
+                            "text": "种族：鬼族\n武器：流星锤（铁链连着带棘刺的铁球）\n能力：家务万能、鬼化（头上长角，战斗力会增强，但精神情绪也会受到影响）、魔法、嗅到魔女的气味\n身份：露格尼卡王国，处在边境伯罗兹瓦尔宅邸的双胞胎女仆中的妹妹，鬼族后裔\n维持着宅邸的机能，与笨手笨脚的拉姆不同，在工作上全能。\n\n",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                        {
+                            "text": "角色形象\n",
+                            "font": 23,
+                            "color": "LabelColor",
+                            "weight": "Bold",
+                        },
+                        {
+                            "text": "身高154cm，大大的眼睛和桃红色嘴唇，轮廓不太分明的面容显得可爱。发型是齐颈短发，然而头发分界线却有所不同，前留海盖住她的右眼（姐姐是左眼）。一身以黑色为基调的围裙，头上是白色帽饰，除刘海方向、发色和瞳色外和姐姐长得几乎一样，胸部比起姐姐拉姆要更加丰满。\n发色：蓝色\n瞳色：蓝色\n眼神平静，除了敬爱的姐姐以外连商业式微笑都难以看见。（宅邸篇后得以改变）",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                    ],
+                },
+                {
+                    "type": "image",
+                    "content": "details_1",
+                },
+                {
+                    "type": "text",
+                    "content": [
+                        {
+                            "text": "对拉姆：",
+                            "font": 17,
+                            "color": "LabelColor",
+                            "weight": "Bold",
+                        },
+                        {
+                            "text": "对姐姐拉姆有着绝对的信赖，是个十足的姐控（一直觉得姐姐是最优秀的）。因小时候作为鬼的能力不如姐姐而感到自卑，在姐姐为了救自己而失去了角的力量后为了能保护姐姐，以姐姐为目标努力着。",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                    ]
+                },
+            ],
+            
+        },
+        {
+            "ID": "2",
+            "viewType": 1,
+            "cardTypeTitle": "专题",
+            "title": "时下畅销的游戏",
+            "apps":[
+                {
+                    "appIcon": "cardTwoAppIcon1",
+                    "appName": "王者荣耀",
+                    "appDescribe": "新版本【峡谷探秘】新版本",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon2",
+                    "appName": "原神",
+                    "appDescribe": "米哈游全新开放世界",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon3",
+                    "appName": "和平精英",
+                    "appDescribe": "突变",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon4",
+                    "appName": "天涯明月刀",
+                    "appDescribe": "天刀手游夏季资料片《愿得一人心》心动来袭！",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon5",
+                    "appName": "三国志·战略版",
+                    "appDescribe": "光荣正版 真实地形战争策略大作",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon6",
+                    "appName": "梦幻西游",
+                    "appDescribe": "网易出品，招牌回合制手游",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon7",
+                    "appName": "英雄联盟手游",
+                    "appDescribe": "峡谷相逢 锐不可当",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon8",
+                    "appName": "率土之滨",
+                    "appDescribe": "千万玩家的三国个人史",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon9",
+                    "appName": "无尽的拉格朗日",
+                    "appDescribe": "原创宇宙，施展无尽策略手段",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon10",
+                    "appName": "万国觉醒 - RoK",
+                    "appDescribe": "全球1亿玩家的文明开拓史",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon11",
+                    "appName": "剑侠世界3",
+                    "appDescribe": "Angelababy倾情代言",
+                },
+                {
+                    "appIcon": "cardTwoAppIcon12",
+                    "appName": "斗罗大陆:魂师对决-动画正版授权",
+                    "appDescribe": "陈坤,成龙大哥一起送福利",
+                },
+            ]
+        },
+        {
+            "ID": "3",
+            "viewType": 0,
+            "cardTypeTitle": "时下热门",
+            "title": "你的老婆回来啦",
+            "imageName": "cardImage2",
+            "backgroundType": "dark",
+            "contents": [
+                {
+                    "type": "text",
+                    "content": [
+                        {
+                            "text": "Re：从零开始的异世界生活\n",
+                            "font": 23,
+                            "color": "LabelColor",
+                            "weight": "Bold",
+                        },
+                        {
+                            "text": "《Re：从零开始的异世界生活》是轻小说家长月达平著作、插画家大冢真一郎负责插画、MF文库J所属的轻小说。\n\n繁体中文版由青文出版社发行，简体中文版由天闻角川发行，并授权SF轻小说在其平台上发布电子版。\n\n小说原是在小说投稿网站“成为小说家吧”上进行连载，后成为MF文库J旗下的作品。文库版与Web原作相比，内容上有较多删减及修改。\n\n截至2020年3月25日，小说系列累计销量突破700万册。\n",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                    ],
+                },
+                {
+                    "type": "image",
+                    "content": "details_2",
+                },
+                {
+                    "type": "text",
+                    "content": [
+                        {
+                            "text": "故事内容\n",
+                            "font": 23,
+                            "color": "LabelColor",
+                            "weight": "Bold",
+                        },
+                        {
+                            "text": "走出便利店要回家的高中生‧菜月昴突然被召唤到异世界。这莫非就是很流行的异世界召唤？可是眼前没有召唤者就算了，还遭遇强盗迅速面临性命危机。这时，一名神秘银发美少女和猫精灵拯救了一筹莫展的他。以报恩为名义，昴自告奋勇要帮助少女找东西。\n\n然而，好不容易才掌握到线索，昴和少女却被不明人士攻击而殒命——本来应该是这样，但回过神来，昴却发现自己置身在第一次被召唤到这个异世界时的所在位置。“死亡回归”——无力的少年得到的唯一能力，是死后时间会倒转回到一开始。\n\n跨越无数绝望，从死亡的命运中拯救少女。“即使你忘记了，我也不会忘记你。”",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                    ],
+                },
+                {
+                    "type": "image",
+                    "content": "details_3",
+                },
+                {
+                    "type": "text",
+                    "content": [
+                        {
+                            "text": "未完待续~",
+                            "font": 17,
+                            "color": "GrayColor",
+                            "weight": "Regular",
+                        },
+                    ]
+                },
+            ],
+        },
+        {
+            "ID": "4",
+            "viewType": 2,
+            "cardTypeTitle": "尝鲜",
+            "title": "生活变游戏",
+            "apps":[
+                {
+                    "appIcon": "cardThreeAppIcon1",
+                    "appName": "Standland",
+                    "appDescribe": "健康健美",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon2",
+                    "appName": "怪物和弦：快乐玩音乐",
+                    "appDescribe": "学习吉他与尤克里里",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon3",
+                    "appName": "Peak智客",
+                    "appDescribe": "适合更聪明头脑的更好的游戏",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon4",
+                    "appName": "多邻国Duolingo英语日语法语",
+                    "appDescribe": "游戏化，39门语言轻松学",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon5",
+                    "appName": "记账城市 - 用每笔收支，建造你的城市",
+                    "appDescribe": "透过「记账游戏」轻松记录开发",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon6",
+                    "appName": "打卡森林 - 好习惯养成的种树记录自律软件",
+                    "appDescribe": "累千积万，不如养个好习惯",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon7",
+                    "appName": "Habit - 坚持习惯每日打卡助手",
+                    "appDescribe": "自律生活打卡提醒管家",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon8",
+                    "appName": "Forset专注森林",
+                    "appDescribe": "培养高效率的学习工作习惯",
+                },
+                {
+                    "appIcon": "cardThreeAppIcon9",
+                    "appName": "Wokamon走星人 - 能够减肥的走路游戏",
+                    "appDescribe": "玩个游戏来燃烧卡路里！拥有计步器的功能",
+                },
+            ],
+            "contents": [
+                {
+                    "type": "app",
+                    "content": [
+                        {
+                            "appIcon": "cardThreeAppIcon1",
+                            "appName": "Standland",
+                            "appDescribe": "健康健美",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon2",
+                            "appName": "怪物和弦：快乐玩音乐",
+                            "appDescribe": "学习吉他与尤克里里",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon3",
+                            "appName": "Peak智客",
+                            "appDescribe": "适合更聪明头脑的更好的游戏",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon4",
+                            "appName": "多邻国Duolingo英语日语法语",
+                            "appDescribe": "游戏化，39门语言轻松学",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon5",
+                            "appName": "记账城市 - 用每笔收支，建造你的城市",
+                            "appDescribe": "透过「记账游戏」轻松记录开发",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon6",
+                            "appName": "打卡森林 - 好习惯养成的种树记录自律软件",
+                            "appDescribe": "累千积万，不如养个好习惯",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon7",
+                            "appName": "Habit - 坚持习惯每日打卡助手",
+                            "appDescribe": "自律生活打卡提醒管家",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon8",
+                            "appName": "Forset专注森林",
+                            "appDescribe": "培养高效率的学习工作习惯",
+                        },
+                        {
+                            "appIcon": "cardThreeAppIcon9",
+                            "appName": "Wokamon走星人 - 能够减肥的走路游戏",
+                            "appDescribe": "玩个游戏来燃烧卡路里！拥有计步器的功能",
+                        },
+                    ],
+                },
+            ],
+        },
+        
+    ]
+}

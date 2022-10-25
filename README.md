@@ -1,5 +1,5 @@
-
 ![演示](https://upload-images.jianshu.io/upload_images/12618366-be312f3ed6a4216a.gif?imageMogr2/auto-orient/strip)
+
 > 之前就想试做下这页面玩的，然后工程创建了很久太懒一直没去做，国庆前辞职了，然后就想着花个两个星期搞完再去找工作，结果一发不可收拾，为了快点找工作草草结束了，最后的效果虽然看似和App Store差不多，但细看转场那里还是有点区别的，代码写的也比较乱，离屏渲染，以下我只说下列表页cell点击缩放效果、转场、详情页手势dismiss的实现。
 
 # 一、cell点击缩放
@@ -266,12 +266,14 @@ typedef enum : NSUInteger {
     
 }
 ```
-
+# 相关阅读
+[iOS 仿AppStore首页Today列表Cell触碰或按下效果](https://blog.csdn.net/wnnvv/article/details/102085784 "Title")
+[AppStoreClone](https://github.com/andrei-blaj/appstoreclone)
 
 # 最后
 
 [Demo](https://github.com/Nidcoco/AppStoreClone.git)
-最后真的是没什么耐心写了，后续有空卡片会多加点样式和优化下代码，代码写的比较烂，有好的建议可以发我邮箱2387356991@qq.com，Demo跪求星星，感激不尽
+最后真的是没什么耐心写了，后续有空卡片会多加点样式和优化下代码，代码写的比较烂，Demo star 感激不尽
 
 
 

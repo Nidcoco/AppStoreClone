@@ -268,11 +268,13 @@ typedef enum : NSUInteger {
 ```
 # 相关阅读
 [iOS 仿AppStore首页Today列表Cell触碰或按下效果](https://blog.csdn.net/wnnvv/article/details/102085784 "Title")
+
 [AppStoreClone](https://github.com/andrei-blaj/appstoreclone)
 
 # 最后
 
 [Demo](https://github.com/Nidcoco/AppStoreClone.git)
+
 最后真的是没什么耐心写了，后续有空卡片会多加点样式和优化下代码，代码写的比较烂，Demo star 感激不尽
 
 
